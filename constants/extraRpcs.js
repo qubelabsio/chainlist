@@ -2735,6 +2735,9 @@ export const extraRpcs = {
       "https://json-rpc.evmos.tcnetwork.io"
     ],
   },
+  9000: {
+    rpcs: ["https://evmos-testnet-json.qubelabs.io	"],
+  },
   836542336838601: {
     rpcs: [],
     websiteDead: true,
